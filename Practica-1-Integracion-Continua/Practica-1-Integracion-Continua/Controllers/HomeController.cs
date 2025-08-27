@@ -6,8 +6,7 @@ namespace Practica_1_Integracion_Continua
     {
         public string Index()
         {
-            return "Nuevo mensaje desde la corrección";
+            return "Deshacer y revertir Cambios git bash corregido";
         }
-    }
     }
 }
