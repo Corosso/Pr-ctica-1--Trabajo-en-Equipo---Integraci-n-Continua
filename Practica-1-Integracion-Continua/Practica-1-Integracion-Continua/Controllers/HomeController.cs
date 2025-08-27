@@ -6,7 +6,7 @@ namespace Practica_1_Integracion_Continua
     {
         public string Index()
         {
-            return "Hello World desde la nueva funcionalidad";
+            return "Nuevo mensaje desde la corrección";
         }
     }
     }
