@@ -6,7 +6,7 @@ namespace Practica_1_Integracion_Continua
     {
         public string Index()
         {
-            return "Mensaje 2, rama 2";
+            return "ejemplo de conflicto, rama 2 otra vez";
         }
     }
 }
