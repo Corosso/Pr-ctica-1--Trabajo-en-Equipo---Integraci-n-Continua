@@ -6,7 +6,7 @@ namespace Practica_1_Integracion_Continua
     {
         public string Index()
         {
-            return "Mensaje 1, rama 1";
+            return "Mensaje 2, rama 2";
         }
     }
 }
