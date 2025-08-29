@@ -6,7 +6,7 @@ namespace Practica_1_Integracion_Continua
     {
         public string Index()
         {
-            return "Deshacer y revertir Cambios git bash corregido";
+            return "Cambio1 para generar conflicto";
         }
     }
 }
